@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeMonT_TexH", "PeMonT_TexH\PeMonT_TexH.csproj", "{BB1037C2-4FF5-4A03-AE3F-363D54061B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_PeMoHT", "UnitTestProject_PeMoHT\UnitTestProject_PeMoHT.csproj", "{68BE53A8-0441-4A2B-B02F-63044173F611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1037C2-4FF5-4A03-AE3F-363D54061B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1037C2-4FF5-4A03-AE3F-363D54061B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1037C2-4FF5-4A03-AE3F-363D54061B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1037C2-4FF5-4A03-AE3F-363D54061B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BE53A8-0441-4A2B-B02F-63044173F611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BE53A8-0441-4A2B-B02F-63044173F611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BE53A8-0441-4A2B-B02F-63044173F611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BE53A8-0441-4A2B-B02F-63044173F611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB8D749-DB8F-4453-B99A-20783E768425}
+	EndGlobalSection
+EndGlobal

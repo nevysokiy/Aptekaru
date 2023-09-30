@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\bin\Debug\PeMonT_TexH.exe.config
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\bin\Debug\PeMonT_TexH.exe
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\bin\Debug\PeMonT_TexH.pdb
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.Properties.Resources.resources
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.exe
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.pdb
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.AddAndChangeForm.resources
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.MainMenu.resources
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.MainMenuStaff.resources
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.Table.resources
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.SignIn.resources
+C:\Users\Admin\source\repos\PeMonT_TexH\PeMonT_TexH\obj\Debug\PeMonT_TexH.LoginHistory.resources

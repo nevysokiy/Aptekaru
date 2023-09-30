@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\PeMoHT_Lib\PeMoHT_Lib\bin\Debug\PeMoHT_Lib.dll
+C:\Users\Admin\source\repos\PeMoHT_Lib\PeMoHT_Lib\bin\Debug\PeMoHT_Lib.pdb
+C:\Users\Admin\source\repos\PeMoHT_Lib\PeMoHT_Lib\obj\Debug\PeMoHT_Lib.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PeMoHT_Lib\PeMoHT_Lib\obj\Debug\PeMoHT_Lib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PeMoHT_Lib\PeMoHT_Lib\obj\Debug\PeMoHT_Lib.dll
+C:\Users\Admin\source\repos\PeMoHT_Lib\PeMoHT_Lib\obj\Debug\PeMoHT_Lib.pdb

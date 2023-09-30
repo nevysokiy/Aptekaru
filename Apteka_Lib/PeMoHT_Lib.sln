@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeMoHT_Lib", "PeMoHT_Lib\PeMoHT_Lib.csproj", "{ACC6A12C-E7A5-4340-91C6-C2CFAB7E0BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1_Library", "UnitTestProject1_Library\UnitTestProject1_Library.csproj", "{29C69DBF-022E-412F-B007-9EAFA525CECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC6A12C-E7A5-4340-91C6-C2CFAB7E0BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC6A12C-E7A5-4340-91C6-C2CFAB7E0BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC6A12C-E7A5-4340-91C6-C2CFAB7E0BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC6A12C-E7A5-4340-91C6-C2CFAB7E0BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C69DBF-022E-412F-B007-9EAFA525CECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C69DBF-022E-412F-B007-9EAFA525CECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C69DBF-022E-412F-B007-9EAFA525CECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C69DBF-022E-412F-B007-9EAFA525CECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC80547-21EA-472E-8A0D-0226E5706A46}
+	EndGlobalSection
+EndGlobal
